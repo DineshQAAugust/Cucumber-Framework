@@ -4,7 +4,7 @@ public class SanityTest {
 
 	public static void main(String[] args) {
 
-		System.out.println("Sanity - Remote");
+		System.out.println("Sanity - Local");
 
 	}
 
